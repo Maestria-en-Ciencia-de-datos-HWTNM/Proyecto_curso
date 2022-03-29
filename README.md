@@ -10,4 +10,9 @@
     -Avance del proyecto (Notebook)
     -referencias
     
- ### El avance del proyecto deber ser escrito en su totalidad en el readme.md del repositorio (o en un archivo .pdf), adjuntando el notebook con los avances (visualizacion y analisis de datos y el pipeline en TF2).
+ #### El avance del proyecto deber ser escrito en su totalidad en el readme.md del repositorio (o en un archivo .pdf), adjuntando el notebook con los avances (visualizacion y analisis de datos y el pipeline en TF2).
+
+## Pasos para la entrega del proyecto (fecha de entrega y presentacion: 08/04/2022):
+    -Adjunto se encuentra la plantilla (jupyter notebook) para la entrega del proyecto. Ademas se debe subir el model.h5.
+    -Cada grupo tiene 20min para presentar su proyecto. Todos los integrantes deben participar de la presentacion.
+    -Los resultados deben ser presentados en una forma muy clara.
